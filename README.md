@@ -1,2 +1,2 @@
-# tela_login
-Criando uma calculadora de operações básicas
+# Tela de Logi
+Criando uma tela de login em Python utilizando tkinter
