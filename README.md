@@ -21,7 +21,7 @@ Desenvolvendo uma tela de login básica. <br/>
 
 ## ⚙ Tecnologias
 
-Esse projeto foi desenvolvido com as tecnologia Python e SQL.
+Esse projeto foi desenvolvido com as tecnologias Python e SQL.
 
 ## 👩‍💻 Sobre o Projeto
 
