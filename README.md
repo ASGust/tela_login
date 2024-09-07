@@ -27,7 +27,6 @@ Esse projeto foi desenvolvido com as tecnologia Python e SQL.
 
 A tela de login possui algumas funcionalidades básicas e uma leve integração com banco de dados.
 
--[Visite o projeto online] (https://asgust.github.io/nlw-setup/)
 
 ## 🖥 Layout
 
