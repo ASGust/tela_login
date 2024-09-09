@@ -2,7 +2,6 @@
 
 <p align="center">
 Desenvolvendo uma tela de login básica. <br/>
-
 </p>
 
 <p align="center">
@@ -23,7 +22,7 @@ Desenvolvendo uma tela de login básica. <br/>
 
 Esse projeto foi desenvolvido com as tecnologias Python e SQL.
 
-## 👩‍💻 Sobre o Projeto
+## 👩‍💻 Projeto
 
 A tela de login possui algumas funcionalidades básicas e uma leve integração com banco de dados.
 
